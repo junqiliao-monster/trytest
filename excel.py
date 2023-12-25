@@ -5,7 +5,6 @@ from openpyxl import load_workbook
 from openpyxl import Workbook
 from openpyxl.styles import PatternFill
 
-
 folder_path = os.getcwd()
 xl_sx_files = []
 xl_s_files = []
